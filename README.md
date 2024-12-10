@@ -46,17 +46,17 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  
 ## Current Works
  * I'm currently working on 🔭 building and maintaining **Web and desktop applications using .NET** and working up on polishing my skills 🌱 in **Competitive Programming** at E2Open.
- * Also, I've got a **Portfolio , [Texsoft](https://martinbr.texsoft.pe/)**.
+ * Also, I've got a **Portfolio , [Texsoft PE](https://martinbr.texsoft.pe/)**.
  * Currently learning Clean Architecture/DDD and React.
  
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1227jgDJ0dNCRToznsFZM_e6J1BCzfieL/view?usp=sharing)
-  - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
+  - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!! 😬)
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
+
  
  -------
-Credits: [MarikIshtar007](https://github.com/MarikIshtar007) (This README template)
+Credits: [MarikIshtar007](https://github.com/MarikIshtar007/MarikIshtar007) (This README template)
 
 Last Edited on: 10/12/2024
 
