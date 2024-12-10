@@ -2,7 +2,7 @@
 ## Hey, [Martin here!](#)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Martin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-br)](https://www.linkedin.com/in/martin-br/) [![Gmail Badge](https://img.shields.io/badge/-martinballasco@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martinballasco@gmail.com)](mailto:martinballasco@gmail.com)
 
@@ -17,8 +17,8 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MartiusBr&layout=compact">
 
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+<img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/csharp.svg' width='30'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/blazor.svg' width='30'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/react.svg' width='30'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/sql_server.svg' width='30'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/docker.svg' width='30'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/python2.png' height='30'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/python2.png' height='30'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/azure.svg' width='30'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/MartiusBr/MartiusBr/blob/main/images/git.svg' width='30'/>
  
  ## Who am I?
  ```python
